@@ -5,6 +5,12 @@
 - Jefferson Chen
 - Howard Chen
 
+### data reference
+- https://data.taipei/
+- https://data.gov.tw/
+- https://datahub.ncdr.nat.gov.tw/dataset?p=1&size=10&sort=views_count_desc&topic_name=%E6%B0%B4%E6%96%87
+
+
 ### Project Description
 
 ### Files
